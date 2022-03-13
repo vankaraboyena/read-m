@@ -1,0 +1,13 @@
+<html>
+<head>
+  <title>sign up</title>
+  </head>
+  <body>
+    <form><br>
+    Sign up</br>
+      Don't have an acount?sign in </br>
+      Email:<input type="text mail="email"value=""><br>
+        password :<input type="password" name="password" value=""<>
+       </br> secret :<input type="" name="" value=""<></br>
+       <input type="sign up" value=" sign up">
+       
